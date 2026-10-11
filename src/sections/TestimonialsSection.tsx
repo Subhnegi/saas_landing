@@ -1,7 +1,6 @@
 import { motion } from "motion/react";
 import { SectionHeading } from "../components/SectionHeading";
 import { Star, Quote, CheckCircle2 } from "lucide-react";
-import { cn } from "../lib/utils";
 
 export function TestimonialsSection() {
   const testimonials = [

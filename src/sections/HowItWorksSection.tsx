@@ -1,6 +1,6 @@
 import { motion } from "motion/react";
 import { SectionHeading } from "../components/SectionHeading";
-import { ArrowRight, BarChart2, Package, Store, Receipt, Smartphone } from "lucide-react";
+import { ArrowRight, BarChart2, Package, Store, Receipt } from "lucide-react";
 import { cn } from "../lib/utils";
 
 export function HowItWorksSection() {
